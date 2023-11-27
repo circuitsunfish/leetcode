@@ -1,0 +1,42 @@
+"leetcode.workspaceFolder": "/Users/ashton/Development/leetcode",
+"leetcode.filePath": {
+  "default": {
+    // relative folder path
+    "folder": "",
+    // file name
+    "filename": "${id}.${kebab-case-name}.${ext}"
+  },
+  "csharp": {
+    "folder": "./csharp/",
+    "filename": "${id}.${kebab-case-name}.${ext}"
+  },
+  "java": {
+    "folder": "./java",
+    "filename": "${id}.${kebab-case-name}.${ext}"
+  },
+  "javascript": {
+    "folder": "./javascript/",
+    "filename": "${id}.${kebab-case-name}.${ext}"
+  },
+  "mysql": {
+    "folder": "./mysql/",
+    "filename": "${id}.${kebab-case-name}.${ext}"
+  },
+  "php": {
+    "folder": "./php/",
+    "filename": "${id}.${kebab-case-name}.${ext}",
+    "filename": "${id}.${kebab-case-name}.${ext}"
+  },
+  "ruby": {
+    "folder": "./ruby/",
+    "filename": "${id}.${kebab-case-name}.${ext}"
+  },
+  "rust": {
+    "folder": "./rust/",
+    "filename": "${id}.${kebab-case-name}.${ext}"
+  },
+  "scala": {
+    "folder": "./scala/",
+    "filename": "${id}.${kebab-case-name}.${ext}"
+  }
+}
