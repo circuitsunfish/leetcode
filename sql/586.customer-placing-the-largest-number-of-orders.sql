@@ -67,6 +67,7 @@
 -- can you find all the customer_number in this case?
 -- 
 --
+-- I was going to use 'having' but it makes more sense to use group by and order by since it is not an aggregate function
 
 -- @lc code=start
 # Write your MySQL query statement below
