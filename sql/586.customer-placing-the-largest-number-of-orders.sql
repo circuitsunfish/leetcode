@@ -68,7 +68,6 @@
 -- 
 --
 -- I was going to use 'having' but it makes more sense to use group by and order by since it is not an aggregate function
-
 -- @lc code=start
 # Write your MySQL query statement below
 
